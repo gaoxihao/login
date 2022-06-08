@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_shop"]=self["webpackChunkvue_shop"]||[]).push([[418],{418:function(e,t,n){n.r(t),n.d(t,{default:function(){return f}});var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"cart"},[e._v(" 这是购物车 "),n("Tabbar")],1)},r=[],s=n(271),u={name:"Cart",components:{Tabbar:s.Z}},c=u,l=n(1001),o=(0,l.Z)(c,a,r,!1,null,"3390d302",null),f=o.exports}}]);
+//# sourceMappingURL=418-legacy.e90423f5.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_shop"]=self["webpackChunkvue_shop"]||[]).push([[142],{5142:function(e,n,t){t.r(n),t.d(n,{default:function(){return b}});var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"my"},[e._v(" wode "),t("Tabbar")],1)},s=[],u=t(271),r={name:"My",components:{Tabbar:u.Z}},c=r,l=t(1001),o=(0,l.Z)(c,a,s,!1,null,"5c73a5b4",null),b=o.exports}}]);
+//# sourceMappingURL=142-legacy.c9135b54.js.map
